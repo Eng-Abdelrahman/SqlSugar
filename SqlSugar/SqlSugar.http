@@ -1,0 +1,6 @@
+@SqlSugar_HostAddress = http://localhost:5100
+
+GET {{SqlSugar_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
